@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Meetkorat38
 - 👀 I’m interested in  Web Devlopment
-- 🌱 I’m currently learning Fronted Devlopment
 - 💞️ I’m looking to collaborate on an web devlopment project
 - 📫 reach me via email
 
